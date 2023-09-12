@@ -1,0 +1,299 @@
+{
+    "applicants": [
+      {
+        "name": "SPANDAN SENAPATI",
+        "email": "spandans@iitk.ac.in",
+        "mobile_number": "6370236489",
+        "skills": ["Programming", "Training", "Research", "Shell", "Numpy", "C", "Physics", "Calculus", "C++", "Pytorch", "Analysis", "Supervisor", "R", "Gensim", "Scipy", "Python", "Technical", "Engineering", "Pandas", "Experiments", "Mathematics", "Algorithms"],
+        "college_name": null,
+        "degree": ["B.Tech in Computer Science and Engineering"],
+        "designation": null,
+        "experience": [
+          "• Algorithms in Depth",
+          "Programming Club, IIT Kanpur",
+          "May’19 - July’19",
+          "– Studied various graph algorithms such as Dijkstra, Bellman Ford, Kruskal’s and Prim, Disjoint Set Union (DSU) etc",
+          "– Studied and implemented various advanced data structures such as Segment Trees, Fenwick Trees etc",
+          "• Among top 1% Indians on Codechef with a 5* rating of 2022 and an active participation in contests"
+        ],
+        "company_names": ["NCERT"],
+        "no_of_pages": 1,
+        "total_experience": 0.0,
+        "cpi": 8.5
+      },
+      {
+        "name": "ALICE JOHNSON",
+        "email": "alice@example.com",
+        "mobile_number": "1234567890",
+        "skills": ["Data Analysis", "Machine Learning", "Python", "SQL", "Statistical Modeling", "Data Visualization", "R", "Research", "Problem Solving"],
+        "college_name": "University of XYZ",
+        "degree": ["B.S. in Computer Science"],
+        "designation": "Data Scientist",
+        "experience": [
+          "• Data Analyst Intern",
+          "TechCorp Solutions",
+          "June'22 - August'22",
+          "– Analyzed large datasets using SQL to extract meaningful insights",
+          "– Developed machine learning models for predictive analysis",
+          "• Research Assistant",
+          "University of XYZ",
+          "January'21 - May'22",
+          "– Assisted in research on natural language processing",
+          "– Collaborated with a team to publish two research papers"
+        ],
+        "company_names": ["TechCorp Solutions", "University of XYZ"],
+        "no_of_pages": 2,
+        "total_experience": 1.5,
+        "cpi": 9.2
+      },
+      {
+        "name": "RAJESH KUMAR",
+        "email": "rajesh@example.com",
+        "mobile_number": "9876543210",
+        "skills": ["Java", "Spring Boot", "RESTful APIs", "Microservices", "Database Design", "Agile Methodology", "Problem Solving", "Git"],
+        "college_name": "ABC University",
+        "degree": ["M.S. in Computer Science"],
+        "designation": "Software Engineer",
+        "experience": [
+          "• Software Engineer",
+          "TechSolutions Ltd.",
+          "August'20 - Present",
+          "– Developed microservices using Spring Boot for a fintech application",
+          "– Collaborated with cross-functional teams to deliver high-quality software",
+          "• Intern",
+          "InnovativeTech Inc.",
+          "May'19 - July'19",
+          "– Worked on front-end development using React for an e-commerce platform"
+        ],
+        "company_names": ["TechSolutions Ltd.", "InnovativeTech Inc."],
+        "no_of_pages": 1,
+        "total_experience": 2.0,
+        "cpi": 7.8
+      },
+      {
+        "name": "JOHN SMITH",
+        "email": "john@example.com",
+        "mobile_number": "5551234567",
+        "skills": ["Web Development", "HTML", "CSS", "JavaScript", "Node.js", "React", "Front-end", "Back-end", "UI/UX Design"],
+        "college_name": "XYZ College",
+        "degree": ["B.S. in Computer Science"],
+        "designation": "Full Stack Developer",
+        "experience": [
+          "• Full Stack Developer",
+          "TechWave Solutions",
+          "September'21 - Present",
+          "– Developed and maintained web applications using React and Node.js",
+          "– Collaborated with designers to implement responsive and user-friendly interfaces"
+        ],
+        "company_names": ["TechWave Solutions"],
+        "no_of_pages": 1,
+        "total_experience": 1.5,
+        "cpi": 6.0
+      },
+      {
+        "name": "EMILY LI",
+        "email": "emily@example.com",
+        "mobile_number": "9876123450",
+        "skills": ["Data Science", "Python", "Machine Learning", "Data Cleaning", "Statistical Analysis", "Data Visualization", "R", "SQL"],
+        "college_name": "DataTech Institute",
+        "degree": ["M.S. in Data Science"],
+        "designation": "Data Analyst",
+        "experience": [
+          "• Data Analyst",
+          "InfoAnalytics",
+          "April'20 - Present",
+          "– Cleaned and transformed raw data to prepare it for analysis",
+          "– Utilized machine learning techniques for predictive modeling",
+          "• Research Intern",
+          "DataTech Institute",
+          "January'20 - March'20",
+          "– Conducted research on sentiment analysis of social media data"
+        ],
+        "company_names": ["InfoAnalytics", "DataTech Institute"],
+        "no_of_pages": 1,
+        "total_experience": 2.5,
+        "cpi": 8.7
+      },
+      {
+        "name": "MARCUS LEE",
+        "email": "marcus@example.com",
+        "mobile_number": "8765091234",
+        "skills": ["Product Management", "Agile Methodology", "Market Research", "Project Management", "UI/UX Design"],
+        "college_name": "BusinessTech University",
+        "degree": ["MBA in Marketing"],
+        "designation": "Product Manager",
+        "experience": [
+          "• Product Manager",
+          "InnoTech Solutions",
+          "July'21 - Present",
+          "– Led cross-functional teams to develop and launch new products",
+          "– Conducted market research to identify customer needs and trends"
+        ],
+        "company_names": ["InnoTech Solutions"],
+        "no_of_pages": 1,
+        "total_experience": 2.0,
+        "cpi": 8.9
+      },
+      {
+        "name": "SARAH WANG",
+        "email": "sarah@example.com",
+        "mobile_number": "7659012345",
+        "skills": ["Digital Marketing", "Social Media Management", "Content Strategy", "SEO", "Google Analytics", "Email Marketing"],
+        "college_name": "Marketing Academy",
+        "degree": ["B.A. in Marketing"],
+        "designation": "Digital Marketing Specialist",
+        "experience": [
+          "• Digital Marketing Specialist",
+          "WebPromote Agency",
+          "May'19 - Present",
+          "– Managed social media accounts for clients and developed content strategies",
+          "– Analyzed website traffic and user behavior using Google Analytics"
+        ],
+        "company_names": ["WebPromote Agency"],
+        "no_of_pages": 1,
+        "total_experience": 3.0,
+        "cpi": 9.5
+      },
+      {
+        "name": "JAMES MILLER",
+        "email": "james@example.com",
+        "mobile_number": "6548901237",
+        "skills": ["Network Administration", "Cisco", "Firewalls", "Troubleshooting", "Network Security"],
+        "college_name": "TechNet Institute",
+        "degree": ["B.S. in Networking"],
+        "designation": "Network Administrator",
+        "experience": [
+          "• Network Administrator",
+          "SecureNet Solutions",
+          "January'20 - Present",
+          "– Managed and maintained company's network infrastructure",
+          "– Implemented security measures to protect against unauthorized access"
+        ],
+        "company_names": ["SecureNet Solutions"],
+        "no_of_pages": 1,
+        "total_experience": 2.5,
+        "cpi": 7.2
+      },
+      {
+        "name": "LISA CHEN",
+        "email": "lisa@example.com",
+        "mobile_number": "8765123908",
+        "skills": ["Financial Analysis", "Investment Banking", "Financial Modeling", "Valuation", "Mergers & Acquisitions"],
+        "college_name": "Finance University",
+        "degree": ["M.S. in Finance"],
+        "designation": "Financial Analyst",
+        "experience": [
+          "• Financial Analyst",
+          "Capital Finance Corp.",
+          "June'21 - Present",
+          "– Conducted financial analysis to support investment decisions",
+          "– Created complex financial models to assess company performance"
+        ],
+        "company_names": ["Capital Finance Corp."],
+        "no_of_pages": 1,
+        "total_experience": 1.5,
+        "cpi": 6.1
+      },
+      {
+        "name": "ALEX TURNER",
+        "email": "alex@example.com",
+        "mobile_number": "9876231450",
+        "skills": ["UX/UI Design", "Adobe Creative Suite", "Wireframing", "Prototyping", "User Research"],
+        "college_name": "DesignCraft Academy",
+        "degree": ["B.A. in Design"],
+        "designation": "UX/UI Designer",
+        "experience": [
+          "• UX/UI Designer",
+          "PixelPerfect Designs",
+          "August'20 - Present",
+          "– Designed user-friendly interfaces for mobile and web applications",
+          "– Conducted user research to inform design decisions"
+        ],
+        "company_names": ["PixelPerfect Designs"],
+        "no_of_pages": 1,
+        "total_experience": 2.0,
+        "cpi": 5.3
+      },
+      {
+        "name": "KARTHIK NAIR",
+        "email": "karthik@example.com",
+        "mobile_number": "7658123045",
+        "skills": ["Supply Chain Management", "Logistics", "Inventory Control", "Data Analysis", "Process Optimization"],
+        "college_name": "SupplyTech Institute",
+        "degree": ["M.S. in Supply Chain Management"],
+        "designation": "Supply Chain Analyst",
+        "experience": [
+          "• Supply Chain Analyst",
+          "LogiCorp Solutions",
+          "October'20 - Present",
+          "– Analyzed supply chain data to identify cost-saving opportunities",
+          "– Streamlined inventory management processes"
+        ],
+        "company_names": ["LogiCorp Solutions"],
+        "no_of_pages": 1,
+        "total_experience": 1.5,
+        "cpi": 8.6
+      },
+      {
+        "name": "ANANYA RAO",
+        "email": "ananya@example.com",
+        "mobile_number": "8765430129",
+        "skills": ["Environmental Science", "Climate Change", "Sustainability", "Data Analysis", "Research"],
+        "college_name": "Environmental Institute",
+        "degree": ["M.S. in Environmental Science"],
+        "designation": "Environmental Researcher",
+        "experience": [
+          "• Environmental Researcher",
+          "GreenEarth Research Center",
+          "July'21 - Present",
+          "– Conducted research on the impact of climate change on ecosystems",
+          "– Analyzed environmental data and presented findings at conferences"
+        ],
+        "company_names": ["GreenEarth Research Center"],
+        "no_of_pages": 1,
+        "total_experience": 1.0,
+        "cpi": 7.4
+      },
+      {
+        "name": "NICHOLAS WONG",
+        "email": "nicholas@example.com",
+        "mobile_number": "7654321098",
+        "skills": ["Project Management", "Agile Methodology", "Team Leadership", "Risk Management"],
+        "college_name": "Management Academy",
+        "degree": ["B.A. in Business Administration"],
+        "designation": "Project Manager",
+        "experience": [
+          "• Project Manager",
+          "ProPlan Solutions",
+          "April'20 - Present",
+          "– Led cross-functional teams to successful project completion",
+          "– Implemented agile methodologies to improve project efficiency"
+        ],
+        "company_names": ["ProPlan Solutions"],
+        "no_of_pages": 1,
+        "total_experience": 2.5,
+        "cpi": 4.4
+      },
+      {
+        "name": "MIA MARTINEZ",
+        "email": "mia@example.com",
+        "mobile_number": "6543012876",
+        "skills": ["Clinical Psychology", "Counseling", "Therapeutic Techniques", "Mental Health Assessment"],
+        "college_name": "Psychology Institute",
+        "degree": ["M.A. in Clinical Psychology"],
+        "designation": "Clinical Psychologist",
+        "experience": [
+          "• Clinical Psychologist",
+          "MindCare Clinic",
+          "June'21 - Present",
+          "– Provided individual and group therapy to clients with diverse backgrounds",
+          "– Conducted psychological assessments and developed treatment plans"
+        ],
+        "company_names": ["MindCare Clinic"],
+        "no_of_pages": 1,
+        "total_experience": 1.5,
+        "cpi": 9.7
+      }
+    ]
+  }
+  

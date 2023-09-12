@@ -1,0 +1,38 @@
+{
+    
+    "personal-info": {
+        "name": "Emily Williams",
+        "email": "emily.williams@example.com",
+        "phone": "555-789-1234",
+        "address": "987 Pine Lane, Citytown",
+        "summary": "Dynamic and creative software developer with a passion for crafting elegant solutions to complex problems."
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Computer Science",
+            "school": "Creative University",
+            "graduationYear": 2022,
+            "gpa": 3.6
+        }
+    ],
+    "experience": [
+        {
+            "title": "Front-End Developer",
+            "company": "WebWizards Studio",
+            "location": "Designville",
+            "startDate": "2021-03-01",
+            "endDate": "2023-09-15",
+            "description": "Designed and developed user interfaces for responsive web applications. Implemented modern design principles and collaborated closely with UX designers."
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "InnovateTech Labs",
+            "location": "Innovate City",
+            "startDate": "2020-06-15",
+            "endDate": "2020-12-15",
+            "description": "Assisted in building backend services and APIs. Gained experience with version control, code reviews, and collaborative software development."
+        }
+    ],
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Git", "UI/UX Design"],
+    "languages": ["English"]
+}

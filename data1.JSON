@@ -1,0 +1,50 @@
+{
+    "personal-info": {
+        "name": "Alex Johnson",
+        "email": "alex.johnson@example.com",
+        "phone": "987-654-3210",
+        "address": "789 Elm Avenue, Villagetown",
+        "summary": "Passionate software engineer with a diverse skill set and a proven track record of delivering innovative solutions."
+    },
+    "education": [
+        {
+            "degree": "Master of Science in Computer Engineering",
+            "school": "Tech Institute",
+            "graduationYear": 2020,
+            "gpa": 3.9
+        },
+        {
+            "degree": "Bachelor of Science in Electrical Engineering",
+            "school": "Electro University",
+            "graduationYear": 2018,
+            "gpa": 3.7
+        }
+    ],
+    "experience": [
+        {
+            "title": "Lead Software Engineer",
+            "company": "Inventive Systems",
+            "location": "Innovationville",
+            "startDate": "2020-02-01",
+            "endDate": "2023-07-15",
+            "description": "Architected and developed a scalable microservices-based platform. Mentored junior engineers and conducted code reviews for quality assurance."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "TechWave Solutions",
+            "location": "Techburg",
+            "startDate": "2018-07-01",
+            "endDate": "2020-01-31",
+            "description": "Contributed to the development of a machine learning-based recommendation engine. Collaborated with data scientists to implement data-driven features."
+        },
+        {
+            "title": "Intern",
+            "company": "ElecCorp Industries",
+            "location": "Energycity",
+            "startDate": "2017-05-15",
+            "endDate": "2017-08-31",
+            "description": "Assisted in designing and testing embedded systems for power distribution. Gained hands-on experience with hardware-software integration."
+        }
+    ],
+    "skills": ["Java", "Python", "JavaScript", "C++", "Databases", "Machine Learning", "Cloud Computing"]
+}
